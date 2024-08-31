@@ -4,7 +4,7 @@ Hi 👋 My name is Anand Kumar
 ![Intro](./download.svg)
 
 
-Full Stack Developer 💻
+Full Stack Developer || Java Developer 💻
 -----------------------
 
 * 🌍  I'm based in India
