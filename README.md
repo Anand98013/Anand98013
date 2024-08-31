@@ -11,7 +11,7 @@ Full Stack Developer || Java Developer 💻
 * ✉️  You can contact me at [anandkumarkharahana@gmail.com](mailto:anandkumarkharahana@gmail.com)
 * 🧠  I'm learning Web Development with Different Stacks.
 * 🤝  I'm open to collaborating on Interesting Full Stack Projects .
-* ⚡  Love For Programming .
+* ⚡  Love For Programming and Coding .
 
 <a href="https://github.com/Anand98013" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Anand98013?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
